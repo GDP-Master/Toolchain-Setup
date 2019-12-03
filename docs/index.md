@@ -15,6 +15,10 @@ layout: page
 
 **Add a Unity Install:**
 1. In our lab we try to run the latest version of the **2018.4 LTS release**, currently that is 2018.4.10f1. The installed version is not updated between prototypes, so it may be behind what is available in our lab. Older versions can be downloaded from the Unity web site.
+1. Select any additional build packages that you are interested in:
+  - WebGL: allows you to deploy your game on the web, relatively easy install.
+  - Android: allows you to deploy your game on Android devices, not so easy to install.
+  - iPhone: allows you to deploy your game on an iPhone, more complicated than WebGL but not as bad as Android - but requires a Mac to build on.
 
 **For macOS:**
 1. Uncheck the **Visual Studio for Mac** option - we will use Visual Studio Code on all platforms.
