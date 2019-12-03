@@ -1,4 +1,5 @@
 # Configuration that is shared between all of the pages in this repository.
 #
-unity-version-name: 2018.4.10f1 (LTS)
+unity-version: 2018.4
+unity-version-patch: 10f1
 unity-version-url: https://unity3d.com/unity/qa/lts-releases?version=2018.4
