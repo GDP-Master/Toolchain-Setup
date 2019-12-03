@@ -4,7 +4,7 @@ layout: page
 
 # Overview
 
-<img class="overview-image" src="">
+<!-- img class="overview-image" src="" -->
 
 ## Unity Hub (and then Unity)
 
