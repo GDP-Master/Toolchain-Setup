@@ -10,7 +10,7 @@ layout: page
 
 1. Download [Unity Hub][unity-hub].
 
-[unity-hub][]: <https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg>
+[unity-hub]: <https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg>
 
 ## GitHub Desktop
 
