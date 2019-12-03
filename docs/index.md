@@ -26,7 +26,7 @@ layout: page
 **For Windows:**
 
 [unity-hub]: <https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg>
-[unity-version-url]: <>
+[unity-version-url]: <{{site.data.page.unity-version-url}}>
 
 ## GitHub Desktop
 
