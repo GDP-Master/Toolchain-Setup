@@ -1,3 +1,4 @@
 # Configuration that is shared between all of the pages in this repository.
 #
 unity-version-name: 2018.4.10f1 (LTS)
+unity-version-url: https://download.unity3d.com/download_unity/a0470569e97b/UnityDownloadAssistant-2018.4.10f1.exe
