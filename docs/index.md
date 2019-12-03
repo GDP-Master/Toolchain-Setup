@@ -14,7 +14,7 @@ layout: page
 1. Add a license - since you don't use Unity in a professional capacity (yet) you qualify for a personal license.
 
 **Add a Unity Install:**
-1. In our lab we try to run the latest version of the **2018.4 LTS release**, currently we are using [{{site.data.page.unity-version-name}}][unity-version-url]. The installed version is not updated between prototypes, so it may be behind what is available in our lab. Older versions can be downloaded from the Unity web site.
+1. In our lab we try to run a recent version of the **[{{site.data.page.unity-version-name}} LTS release][unity-version-url]**, currently we are running **{{site.data.page.unity-version-minor}}**. The installed version is not updated between prototypes, so it may be behind what is available in our lab. Older versions can be downloaded from the Unity web site.
 1. Select any additional build packages that you are interested in:
    - WebGL: allows you to deploy your game on the web, relatively easy install.
    - Android: allows you to deploy your game on Android devices, not so easy to install.
