@@ -8,6 +8,10 @@ layout: page
 
 ## Unity Hub (and then Unity)
 
+1. Download [Unity Hub][].
+
+[unity hub][]: <https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg>
+
 ## GitHub Desktop
 
 ## An IDE
