@@ -6,6 +6,14 @@ layout: page
 
 <img class="overview-image" src="">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+## Unity Hub (and then Unity)
+
+## GitHub Desktop
+
+## An IDE
+
+### Atom
+
+### Visual Studio Code
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
